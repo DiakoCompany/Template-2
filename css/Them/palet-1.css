@@ -1,0 +1,55 @@
+:root
+{
+    --Background-1 :#022F19;
+    --Background-2 :#CFDCD6;
+    --Text-Color:#6D7E76;
+}
+a
+{
+    color: var(--Background-2) !important;
+}
+.Title_Fade
+{
+    color: var(--Text-Color);
+}
+/* Header */
+header 
+{
+    background-color: var(--Background-1);
+}
+/* Baner */
+#Baner
+{
+    background-color: var(--Background-2);
+}
+/* About */
+#About h3
+{
+    color: var(--Text-Color);
+}
+/* Activity */
+#Activity .Activity-Box
+{
+    background-color: var(--Background-2);
+}
+/* Executive */
+#Executive p
+{
+    color: var(--Text-Color);
+}
+/* Commission */
+.Commission-Text p
+{
+    color: var(--Text-Color);
+}
+/* Contact */
+#Contact p
+{
+    color: var(--Text-Color);
+}
+/* Footer */
+footer 
+{
+    background-color: var(--Background-2);
+    color: var(--Background-1);
+}
