@@ -1,0 +1,211 @@
+@media screen and (max-width: 1440px) 
+{
+    .Title_Fade
+    {
+        font-size: 180px;
+        opacity: 5%;
+        margin-top: 100px;
+        margin-bottom: 0px;
+    }
+    .Title
+    {
+        font-size: 70px;
+        margin-top: -150px;
+    } 
+    /* Header */
+    header
+    {
+        width: 100%;
+        height: 100px;
+    } 
+    header li
+    {
+        font-size: 30px;
+        margin-left: 40px;
+        padding-top: 30px;
+    }  
+    /* Baner */
+    #Baner
+    {
+        width: 100%;
+        height: 90%;
+    }
+    /* About */
+    #About .Title
+    {
+        margin-right: 40%;
+    }
+    #About .About-info
+    {
+        width: 30%;
+        margin-top: 100px;
+        margin-right:20% ;
+    }
+    #About img
+    {
+        width: 20%;
+        height: 400px;
+        margin-right: 60%;
+        margin-top: -400px;
+        border-radius: 25px;
+    }
+    #About h3
+    {
+        font-size: 35px;
+    }
+    #About p
+    {
+        font-size:22px;
+    }
+    /* Activity */
+    #Activity 
+    {
+        width: 100%;
+        height: 800px;
+    }
+    #Activity .Title
+    {
+        margin-right: 42%;
+    }
+    #Activity .Activity-Box
+    {
+        margin-top: 0px;
+        width: 25%;
+        height: 400px;
+        margin-right: 6%;
+        border-radius: 25px;
+    }
+    #Activity img
+    {
+        width: 70%;
+        margin-right: 0px;
+    }
+    /* Executive */
+    #Executive 
+    {
+        width: 100%;
+        height: 400px;
+    }
+    #Executive .Title
+    {
+        margin-right: 38%;
+    }
+    #Executive p
+    {
+        font-size: 35px ;
+        margin-right: 20%;
+        margin-top: 150px;
+    }
+    /* Commission */
+    #Commission 
+    {
+        width: 100%;
+        height: 700px;
+    }
+    #Commission .Title
+    {
+        margin-right: 32%;
+    }
+    #Commission .Commission-Info
+    {
+        width: 80%;
+        margin-right: 10%;
+        padding-top: 100px;
+    }
+    #Commission img
+    {
+        width: 25%;
+        height: 350px;
+        margin-right: 10%;
+    }
+    #Commission .Commission-Text
+    {
+        width: 40%;
+        margin-right: 20%;
+    }
+    .Commission-Text p
+    {
+        margin-top: 35px;
+        font-size: 25px;
+    }
+    /* Compaign */
+    #Compaign 
+    {
+        width: 100%;
+        height: 1000px;
+    }
+    #Compaign .Title
+    {
+        margin-right: 38%;
+    }
+    #Compaign .Address
+    {
+        width: 100%;
+        height: 600px;
+    }
+    #Compaign .Compaign-Info
+    {
+        width: 40%;
+        height: 300px;
+        margin-right: 20%;
+    }
+    .Compaign-Info h3 
+    {
+        font-size: 25px;
+        margin-top: 20px;
+        margin-right: 10%;
+    }
+    #Compaign iframe
+    {
+        width: 80% !important;
+        height: 400px;
+        margin-right: 10%;
+        border-radius: 50px;
+    }
+    /* Contact */
+    #Contact 
+    {
+        width: 100%;
+        height: 700px;
+    }
+    #Contact .Title
+    {
+        margin-right: 38%;
+    }
+    #Contact .flag-2 
+    {
+        width: 100%;
+    }
+    #Contact .Social-box
+    {
+        width: 40%;
+        height: 400px;
+        margin-top: -400px;
+        padding-right: 200px;
+    }
+    #Contact p
+    {
+        margin-top: 40px;
+        margin-right: 50px;
+        font-size: 25px;
+    }
+    #Contact .Social-Icon
+    {
+        width: 50px;
+        height: 50px;
+        margin-left: 25px;
+    }
+    /* Footer */
+    footer 
+    {
+        width: 100%;
+        height: 100px;
+        padding-top: 30px;
+    }
+    footer h4
+    {
+        padding: 0 !important;
+        margin: 0 !important;
+        font-size: 35px;
+    }
+}
