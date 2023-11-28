@@ -2,39 +2,45 @@
 {
     .Title_Fade
     {
-        font-size: 100px;
+        font-size: 60px;
         opacity: 5%;
         margin-top: 100px;
         margin-bottom: 0px;
     }
     .Title
     {
-        font-size: 50px;
-        margin-top: -90px;
+        font-size: 30px;
+        margin-top: -50px;
     } 
     /* Header */
     header
     {
         width: 100%;
-        height: 90px;
+        height: 70px;
+        text-align: right !important;
     } 
     header li
     {
-        font-size: 20px;
-        margin-left: 20px;
+        font-size: 10px;
+        margin-left: 10px;
         padding-top: 30px;
     }  
     /* Baner */
     #Baner
     {
         width: 100%;
-        height: 70%;
+        height: 40%;
     }
     .Slide
     {
-        margin-top: 260px!important;
+        margin-top: 150px!important;
+        font-size: 15px;
     }
     /* About */
+    #About
+    {
+        height: 200px;
+    }
     #About .Title
     {
         margin-right: 40%;
@@ -42,30 +48,30 @@
     #About .About-info
     {
         width: 30%;
-        margin-top: 100px;
+        margin-top: 50px;
         margin-right:20% ;
     }
     #About img
     {
         width: 20%;
-        height: 300px;
+        height: 150px;
         margin-right: 60%;
-        margin-top: -300px;
+        margin-top: -150px;
         border-radius: 25px;
     }
     #About h3
     {
-        font-size: 20px;
+        font-size: 10px;
     }
     #About p
     {
-        font-size:15px;
+        font-size:8px;
     }
     /* Activity */
     #Activity 
     {
         width: 100%;
-        height: 500px;
+        height: 200px;
     }
     #Activity .Title
     {
@@ -75,7 +81,7 @@
     {
         margin-top: 0px;
         width: 25%;
-        height: 300px;
+        height: 150px;
         margin-right: 6%;
         border-radius: 25px;
     }
@@ -88,7 +94,7 @@
     #Executive 
     {
         width: 100%;
-        height: 200px;
+        height: 100px;
     }
     #Executive .Title
     {
@@ -96,47 +102,47 @@
     }
     #Executive p
     {
-        font-size: 25px ;
+        font-size: 15px ;
         margin-right: 20%;
-        margin-top: 80px;
+        margin-top: 50px;
     }
     /* Commission */
     #Commission 
     {
         width: 100%;
-        height: 450px;
+        height: 250px;
     }
     #Commission .Title
     {
-        margin-right: 27%;
+        margin-right: 25%;
     }
     #Commission .Commission-Info
     {
         width: 80%;
         margin-right: 10%;
-        padding-top: 100px;
+        padding-top: 50px;
     }
     #Commission img
     {
-        width: 25%;
-        height: 250px;
-        margin-right: 10%;
+        width: 30%;
+        height: 150px;
+        margin-right: 5%;
     }
     #Commission .Commission-Text
     {
-        width: 40%;
-        margin-right: 20%;
+        width: 80%;
+        margin-right: 10%;
     }
     .Commission-Text p
     {
-        margin-top: 30px;
-        font-size: 15px;
+        margin-top: 15px;
+        font-size: 10px;
     }
     /* Compaign */
     #Compaign 
     {
         width: 100%;
-        height: 800px;
+        height: 500px;
     }
     #Compaign .Title
     {
@@ -150,19 +156,19 @@
     #Compaign .Compaign-Info
     {
         width: 40%;
-        height: 250px;
+        height: 170px;
         margin-right: 20%;
     }
     .Compaign-Info h3 
     {
-        font-size: 20px;
-        margin-top: 20px;
-        margin-right: 10%;
+        font-size: 15px;
+        margin-top: 15px;
+        margin-right: 5%;
     }
     #Compaign iframe
     {
         width: 80% !important;
-        height: 350px;
+        height: 250px;
         margin-right: 10%;
         border-radius: 50px;
     }
@@ -170,7 +176,7 @@
     #Contact 
     {
         width: 100%;
-        height: 400px;
+        height: 250px;
     }
     #Contact .Title
     {
@@ -183,33 +189,33 @@
     #Contact .Social-box
     {
         width: 40%;
-        height: 300px;
-        margin-top: -220px;
-        padding-right: 70px;
+        height: 150px;
+        margin-top: -120px;
+        padding-right: 20px;
     }
     #Contact p
     {
-        margin-top: 25px;
+        margin-top: 15px;
         margin-right: 50px;
-        font-size: 15px;
+        font-size: 10px;
     }
     #Contact .Social-Icon
     {
-        width: 30px;
-        height: 30px;
+        width: 15px;
+        height: 15px;
         margin-left: 20px;
     }
     /* Footer */
     footer 
     {
         width: 100%;
-        height: 100px;
+        height: 70px;
         padding-top: 30px;
     }
     footer h4
     {
         padding: 0 !important;
         margin: 0 !important;
-        font-size: 25px;
+        font-size: 15px;
     }
 }
